@@ -1,0 +1,28 @@
+
+.image-parent {
+    max-width: 40px;
+}
+
+.progress {
+    margin-bottom: 10px;
+}
+
+button.btn-product, button:active.btn-product, button:focus.btn-product:focus {
+    outline: none!important;
+    border: none!important;
+    box-shadow: inset 0 0 0 #ddd;
+}
+
+.unemployed {
+    opacity: 0.4;
+}
+
+.price-badge {
+    position: absolute;
+    left: 30px;
+    top: 50px;
+}
+
+.hiring-cost-badge {
+
+}
